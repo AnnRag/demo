@@ -1,0 +1,5 @@
+project:
+  datasource:
+    username: user
+    password: password
+    database: demo
